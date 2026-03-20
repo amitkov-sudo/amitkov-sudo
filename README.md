@@ -27,7 +27,11 @@ Simulate a real-world **end-to-end ML system** — from raw data → pipeline �
 
 ## 🛠️ Building with
 **Languages:** Python, SQL, Java, JavaScript
+
 **Frameworks & Tools:** FastAPI, PostgreSQL, Docker, Airflow, scikit-learn, PyTorch, Spring Boot, Hibernate, Qiskit, Git, React
+
+**Cloud Services:** AWS
+
 **Scientific Computing:** Perl, Fortran, Bash
 
 ## 🎯 Current focus
