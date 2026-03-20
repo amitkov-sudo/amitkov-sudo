@@ -45,6 +45,7 @@ Simulate a real-world **end-to-end ML system** — from raw data → pipeline �
 ## 🚀 Featured projects
 - **RetentionIQ** — churn prediction + ML pipeline
 - **AmCast AI** — transit delay prediction system
+- **Portfolio Website** - A personal portfolio-style website build with Next.js, TypeScript, Tailwind, and Framer Motion tools
 - Backend + analytics engineering projects
 
 ## 📫 Reach me
