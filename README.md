@@ -9,7 +9,7 @@ Right now I’m focused on building:
 - strong public **work**
 
 ## 🚧 Current Project
-### AmCast AI — Transit Delay Prediction System
+### RailCast AI — Transit Delay Prediction System
 
 Building a **production-style ML + data engineering pipeline** to predict BART train delays using GTFS transit data.
 
