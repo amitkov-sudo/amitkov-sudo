@@ -1,4 +1,4 @@
-# Hey Y'all, Alex Here 👋
+# Hello World, Alex Here 👋
 
 I’m into **AI/ML, data engineering, full-stack development, and quantum computing**.
 
