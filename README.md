@@ -58,7 +58,7 @@ Melbourne, VIC, Australia (Remote)
 M.S. in Computational Chemistry (Quantum Computing) — August 2024 — May 2026  
 Merced, CA, USA (On-site)
 
-**American Public University (APUS)**  
+**American Public University**  
 B.S. Natural Sciences — June 2020 - August 2024
 Charleston, WV, USA (Remote)
 ## 📫 Reach me
