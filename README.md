@@ -52,18 +52,14 @@ Simulate a real-world **end-to-end ML system** — from raw data → pipeline �
 
 **Monash University**  
 Master of Computer Science (Artificial Intelligence) — June 2026 - May 2028
-
 Melbourne, VIC, Australia (Remote)
 
 **University of California, Merced**  
 M.S. in Computational Chemistry (Quantum Computing) — August 2024 — May 2026  
-
 Merced, CA, USA (On-site)
 
 **American Public University**  
-
 B.S. Natural Sciences — June 2020 - August 2024
-
 Charleston, WV, USA (Remote)
 
 ## 📫 Reach me
