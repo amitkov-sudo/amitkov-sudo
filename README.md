@@ -48,7 +48,21 @@ Simulate a real-world **end-to-end ML system** — from raw data → pipeline �
 - **Portfolio Website** - A personal portfolio-style website build with Next.js, TypeScript, Tailwind, and Framer Motion tools
 - Backend + analytics engineering projects
 
+## 🎓 Education
+
+**Monash University**  
+Master of Computer Science (Artificial Intelligence) — June 2026 - May 2028
+Melbourne, VIC, Australia (Remote)
+
+**University of California, Merced**  
+M.S. in Computational Chemistry (Quantum Computing) — August 2024 — May 2026  
+Merced, CA, USA (On-site)
+
+**American Public University (APUS)**  
+B.S. Natural Sciences — June 2020 - August 2024
+Charleston, WV, USA (Remote)
 ## 📫 Reach me
 - LinkedIn:https://www.linkedin.com/in/amitkov/
 - Portfolio: https://amitkov.dev/
 - Email: alex.mitkov.dev@gmail.com
+- Academic: amitkov@ucmerced.edu | amit0070@student.monash.edu
