@@ -8,22 +8,20 @@ Right now I’m focused on building:
 - practical **data pipelines**
 - strong public **work**
 
-## 🚧 Current Project
+## 🚀 Most Recent Project
 ### RailCast AI — Transit Delay Prediction System
-
-Building a **production-style ML + data engineering pipeline** to predict BART train delays using GTFS transit data.
+A **production-style ML + data engineering pipeline** predicting BART train delays using real GTFS transit data.
 
 **What it includes:**
-- Data ingestion from static + real-time transit feeds (GTFS)
-- PostgreSQL data modeling (stops, trips, routes, stop_times)
-- Data processing pipelines (Airflow-style orchestration)
-- Feature engineering for time-series delay prediction
-- ML models for delay forecasting
-- API layer (FastAPI) for serving predictions
+- GTFS static + real-time data ingestion (40,968 rows across 8 tables)
+- PostgreSQL data modeling (agency, stops, routes, trips, stop_times + 3 RT tables)
+- Airflow DAG orchestration (daily static reload + RT snapshots)
+- Feature engineering: route/stop encoding, hour/day-of-week, rolling delay mean (7 features)
+- XGBoost regressor — Train MAE: 0.46 min · Val MAE: 1.22 min · ~13ms single-row inference
+- FastAPI inference service + Spring Boot rider API with configurable GTFS-RT TTL caching
 - Dockerized environment for reproducibility
 
-**Main Objective:**  
-Simulate a real-world **end-to-end ML system** — from raw data → pipeline → model → API → deployment.
+🔗 Deployment in progress — live link coming soon
 
 ## 🛠️ Building with
 **Languages:** Python, SQL, Java, JavaScript
